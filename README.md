@@ -13,7 +13,7 @@ A clean and simple Weather App built with HTML, CSS, and JavaScript. This applic
 ## Live Demo
 
 [View Weather App](https://ajramirezcodes.github.io/Weather-App/)  
-(Replace the link above with your actual GitHub Pages link if different)
+
 
 ## Technologies Used
 
