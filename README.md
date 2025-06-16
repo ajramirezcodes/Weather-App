@@ -1,6 +1,6 @@
 # Weather App
 
-A clean and simple Weather App built with HTML, CSS, and JavaScript. This application allows users to search for current weather conditions in any city using real-time data from the OpenWeatherMap API.
+This application allows users to search for current weather conditions in any city using real-time data from the OpenWeatherMap API.
 
 ## Features
 
@@ -19,5 +19,5 @@ A clean and simple Weather App built with HTML, CSS, and JavaScript. This applic
 
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla)  
+- JavaScript
 - [OpenWeatherMap API](https://openweathermap.org/api)
